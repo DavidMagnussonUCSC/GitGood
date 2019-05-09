@@ -1,5 +1,5 @@
 //Initialize the game
-var game = new Phaser.Game(600,    8   00, Ph   aser.   AUTO, ');
+var game = new Phaser.Game(600, 800, Phaser.AUTO, 'phaser');
 
 //Initialize Global Variables
 var cursors; // Global cursors for being able to check if keys are held
